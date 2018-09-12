@@ -1,0 +1,33 @@
+{
+	"scaling_objects": [
+		{
+			"name": "person",
+			"path": "assets/models/human.dae",
+			"height": 1.7
+		}, {
+			"name": "bus",
+			"path": "assets/models/double-decker-bus-4.dae",
+			"height": 4.30
+		}, {
+			"name": "liberty",
+			"path": "assets/models/liberty.dae",
+			"height": 92.9
+		}, {
+			"name": "eiffel",
+			"path": "assets/models/eiffel.dae",
+			"height": 300
+		}
+	],
+	"gases": {
+		"carbon dioxide": {
+			"density": 1.8714,
+			"source": "https://encyclopedia.airliquide.com/carbon-dioxide",
+			"colour": null
+		},
+		"methane": {
+			"density": 0.6797,
+			"source": "https://encyclopedia.airliquide.com/methane",
+			"colour": null
+		}
+	}
+}
